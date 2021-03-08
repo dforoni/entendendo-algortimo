@@ -28,3 +28,15 @@ def ordenacaoporSelecao(arr):
 
 print(ordenacaoporSelecao(arr=[5,3,6,2,10]))
 
+
+'''Notas:
+• A memória do seu computador é como umc onjunto gigante de gavetas. 
+• Quando se quer armazenar múltiplos elementos, usa-se um array ou uma lista. 
+• No array, todos os elementos são armazenados um ao lado do outro. 
+• Na lista, os elementos estão espalhados e um elemento armazena o endereço do próximo elemento. 
+• Arrays permitem leituras rápidas. • Listas encadeadas permitem rápidas inserções e eliminações. 
+• Todos os elementos de um array devem ser do mesmo tipo (todos ints, todos doubles, e assim por diante).
+
+
+Bhargava, Aditya Y.. Entendendo Algoritmos (p. 67). Novatec Editora. Edição do Kindle. '''
+
